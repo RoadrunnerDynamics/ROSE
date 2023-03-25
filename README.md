@@ -76,7 +76,7 @@ Try to not pull in massive libraries. Use good, reliable libraries that run the 
 
 * **GUI** - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
 * **TUI** - [Notcurses](https://github.com/dankamongmen/notcurses), [termbox](https://github.com/termbox/termbox)
-* **Math** - [BLIS](https://github.com/flame/blis), [libzahl](https://git.suckless.org/libzahl/)
+* **Math** - [BLIS](https://github.com/flame/blis), [ArrayFire](https://arrayfire.com/), [libzahl](https://git.suckless.org/libzahl/)
 * **Text** - [libgrapheme](https://git.suckless.org/libgrapheme/)
 * **Computer vision** - [CCV](https://libccv.org/)
 * **Neural networks** - [NNC](https://libnnc.org/)
